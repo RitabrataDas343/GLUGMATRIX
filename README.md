@@ -20,4 +20,4 @@ This is a GLUG MATRIX file in Python3.
 
     ```
     
-This file is made by # Ritabrata Das.
+This file is made by #Ritabrata Das.
